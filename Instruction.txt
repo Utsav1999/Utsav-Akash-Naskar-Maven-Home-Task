@@ -1,0 +1,10 @@
+It is a switch-case program in JAVA language. 
+***At first it will give four options:
+		Option 1: To see all chocolate items
+		Option 2: To see all sweet items
+		Option 3: T0 see both chocolate and sweet items
+		Option 4: To exit
+
+***After choosing an option it will ask for your price range(except the Option:4)
+
+***After giving price range it will show available items within your price range in ascending order.
